@@ -8,8 +8,6 @@
   "scripts": {
     "test": "grunt test",
     "start": "grunt serve",
-    "build": "grunt",
-    "watch": "grunt watch"
   },
   "author": {
     "name": "Hakim El Hattab",
