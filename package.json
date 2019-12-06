@@ -1,0 +1,27 @@
+{
+  "name": "presentation-task",
+  "version": "1.0.0",
+  "description": "Hello, my name is Daniyar Ketebay. I am an electrical engineering student studying in Turkey. Today I want to talk about blockchain, it's history, why it became so popular and it's future.",
+  "main": "gruntfile.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "dependencies": {
+    "grunt-contrib-watch": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hakimel/reveal.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hakimel/reveal.js/issues"
+  },
+  "homepage": "https://github.com/hakimel/reveal.js#readme"
+}
